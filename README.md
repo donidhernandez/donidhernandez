@@ -1,6 +1,8 @@
 # Hi, I'm Doni 👋
 ### Software Engineer/ Web Developer & iOS Dev Enthusiast  
 
+![1880585](https://github.com/donidhernandez/donidhernandez/assets/142445990/7dd79633-b2be-475f-a9ad-ded6f173b40d)
+
 I am a fresh-faced developer, with a strong sense of responsibility, who is fascinated by technology, implementing solutions, and assisting individuals and organizations to succeed.
 
 My interpersonal and teamwork skills are robust, and my adaptable mindset enables me to thrive in any work environment. I identify chances to enhance the process and user experience and assist the IT team with new service requests.  I possess a remarkable aptitude for database management and a keen ability to strategize and comply with organizational protocols. I oversee seamless system operations, team management, and day-to-day problem-solving while ensuring data security to optimize company efficiency.

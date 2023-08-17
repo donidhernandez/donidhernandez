@@ -11,5 +11,5 @@ Proficient in software development, programming languages, E-Commerce, and SEO. 
 
 I'm searching for like-minded people to join their squad. I am continuously looking to expand my knowledge and hone my skills.
 
-- 🔭 I’m currently working on React + Node Stack
-- 🌱 I’m currently learning SwiftUI & UIKit
+## Tech Stack:
+

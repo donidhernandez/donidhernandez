@@ -55,6 +55,7 @@ I build products that ship. **Frontend Engineer at [Claap](https://www.claap.io)
 | Nuzzleway | Native iOS app (Swift / SwiftUI) with a companion web app. |
 | Aprende la hora | Native iOS app built with Swift and SwiftUI. |
 | Lumbrera | Native iOS app built with Swift and SwiftUI. |
+| [Sell Bio](https://sellb.io) *(past)* | Co-founded a bio link → sales funnel SaaS (2025–2026). React, Next.js, Supabase, Stripe. Lanzadera accelerator cohort. |
 | [mangaka.online](https://mangaka.online) | Bilingual manga encyclopedia built with Astro. SEO-first, i18n. |
 | [tujardinpro.com](https://tujardinpro.com) | Gardening affiliate & SEO blog. Content strategy + technical SEO. |
 

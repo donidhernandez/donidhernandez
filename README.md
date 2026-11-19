@@ -52,9 +52,9 @@ I build products that ship. **Frontend Engineer at [Claap](https://www.claap.io)
 | Project | Description |
 |---|---|
 | [Nobori Studio](https://nobori.studio) | Digital product & AI studio. Takes apps built with Lovable, Bolt or Cursor to production and builds custom tools for small businesses. |
-| Nuzzleway | Native iOS app (Swift / SwiftUI) with a companion web app. |
-| Aprende la hora | Native iOS app built with Swift and SwiftUI. |
-| Lumbrera | Native iOS app built with Swift and SwiftUI. |
+| [Nuzzleway](https://apps.apple.com/app/id6799417829) · [web](https://www.nuzzleway.com) | Pet care & health tracker: meals, walks, medication, vaccines and shared care at home. iOS app (Swift / SwiftUI) + web. |
+| [Aprender la Hora con Tic](https://apps.apple.com/app/id6832970487) | Kids learn to read the clock step by step: 32 levels following the school curriculum. Swift / SwiftUI. |
+| [Lumbrera](https://apps.apple.com/app/id6832986330) | Read the whole Bible in a year, one verse per screen, with daily progress tracking. Swift / SwiftUI. |
 | [Sell Bio](https://sellb.io) *(past)* | Co-founded a bio link → sales funnel SaaS (2025–2026). React, Next.js, Supabase, Stripe. Lanzadera accelerator cohort. |
 | [mangaka.online](https://mangaka.online) | Bilingual manga encyclopedia built with Astro. SEO-first, i18n. |
 | [tujardinpro.com](https://tujardinpro.com) | Gardening affiliate & SEO blog. Content strategy + technical SEO. |
